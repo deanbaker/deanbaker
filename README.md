@@ -43,6 +43,14 @@ I prefer asynchronous communication since we are all remote, but recognise the p
 
 > I have an "Open Door" policy - feel free to reach out whenever you like, we do not need to abide by calendar invites to start talking.
 
+## What I am working on
+
+Currently my focus is on the following areas:
+
+- Giving and Recieving feedback - some of the softer skills
+- Making my work more visible to the team, becoming more transparent
+- Commiting to fewer things (so hard with so much to do!)
+
 ## Feedback
 
 I am working hard to get better at giving and receiving feedback. At the time of writing this README we are going through a global pandemic, so giving timely and constructive feedback is much harder. I am spending a little more time reflecting and using our internal CultureAmp product to give feedback where possible.
