@@ -4,7 +4,7 @@
 
 Firstly, I'm looking forward to working with you! This document is not supposed to replace real 1:1 time getting to know you; it might help you get an understanding of me and help keep me accountable in my job in helping you.
 
-## My role as Engineering Lead
+## My role as Head of Engineering
 
 I see my role here at PEXA as one of an enabler. I like to use the term force multiplier from time to time, but when I reflect, what I genuinely want to do is help you to become the best engineer you can be.
 
@@ -15,9 +15,9 @@ In a little more detail, I strive to:
 - Drive initiatives across Technology that will directly feed into your Learning & Development, as well as general ways of working.
 - Reduce the friction you face day-to-day. This will come in all shapes and sizes; some will be quick wins we can drive together, some might be larger pieces of work that will need the whole team behind.
 
-Sometimes people read my role as _"the person who will tell us what to do, and how to do it"_. I am not here to do that; I am here to make sure that you have to tools and resources to get the job done. I will most certainly have opinions about many things, and I expect to be respectfully challenged by you! I am not here to dictate or tell you what to do. I will be as direct as I can in my support of your work.
+Sometimes people read my role as _"the person who will tell us exactly what to do, and how to do it"_. I am not here to do that; I am here to make sure that you have to tools and resources to get the job done. I will most certainly have opinions about many things, and I expect to be respectfully challenged by you! I am not here to dictate or tell you what to do. I will be as direct as I can in my support of your work.
 
-> I see myself as a force multiplier, by that I mean someone who can help move your career forward by supporting your personal L&D, aligned to our technology strategy, and removing potential roadblocks or friction to enable you to do your best work.
+> My main goal is to be someone who can help move your career forward by supporting your personal L&D, aligned to our technology strategy, and removing potential roadblocks or friction to enable you to do your best work.
 
 ## One-on-ones
 
