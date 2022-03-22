@@ -8,16 +8,15 @@ Firstly, I'm looking forward to working with you! This document is not supposed 
 
 I have been in the industry for 20 years now. I have experience working across consulting, startups and enterprise which I think has given me some good exposure to what I see working well, and not so well.
 
-Starting as a young Java engineer, I have also used Ruby and Go in the back end, and at times dabbled in the front-end space. My time as a ruby engineer really kickstarted my love for testing and automation (those loosely typed languages!) and you will find me pushing quality at all times.
+Starting as a young Java engineer, I have also used Ruby and Go in the back end, and at times even dabbled in the front-end space. My time as a ruby engineer really kickstarted my love for testing and automation (those loosely typed languages!) and you will find me pushing quality at all times.
 
 I have had experience running distributed teams across geographies, working with build partners such as Accenture, Thoughtworks and CapG. 
-
-### Building high performing teams
-I have spent quite a bit of time 
 
 ## My role as Head of Engineering
 
 I see my role here at Realtair as one of an enabler. I like to use the term force multiplier from time to time, but when I reflect, what I genuinely want to do is help you to become the best engineer you can be.
+
+I have spent a lot of time working on engineering team structures, heavily invested in the Team Topologies framework. You will see some of these ideas come through, and hopefully it will make our teams more effective and quick to add value for our customers.
 
 In a little more detail, I strive to:
 
