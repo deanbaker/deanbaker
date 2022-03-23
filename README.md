@@ -12,7 +12,19 @@ Starting as a young Java engineer, I have also used Ruby and Go in the back end,
 
 I have had experience running distributed teams across geographies, working with build partners such as Accenture, Thoughtworks and CapG. 
 
-## My role as Head of Engineering
+### Content about me
+I like to share my thoughts on Medium.com - you can see my work here: [Medium Blog](dean-baker.medium.com).
+
+If you are interested in looking at of my work history, I can be found on [LinkedIn](https://www.linkedin.com/in/dean-baker/) - please connect if you haven't already.
+
+
+### More personal stuff
+
+I live outside of metro Melbourne in a city called Geelong - we moved down here mid-pandemic in 2020 and have not looked back! We are close to the surf coast and are able to head to the beach any weekend we feel like it, which is fantastic. We are raising two little girls that are 2 years and 1 day apart, so that keeps me busy.
+
+I have been practicing Brazilian Jiu Jitsu for a few years now, it's been on hold since starting a family, but I am looking forward to getting a cadence of training now that we are out of the pandemic, and I can start to shape up some lunch time sessions. If you ever want to hang out and talk BJJ or MMA, I'd love the change from talking about Monoliths and Microservices :)
+
+## My role as Head of Engineering 🌉
 
 I see my role here at Realtair as one of an enabler. I like to use the term force multiplier from time to time, but when I reflect, what I genuinely want to do is help you to become the best engineer you can be.
 
@@ -29,7 +41,7 @@ Sometimes people read my role as _"the person who will tell us exactly what to d
 
 > My main goal is to be someone who can help move your career forward by supporting your personal L&D, aligned to our technology strategy, and removing potential roadblocks or friction to enable you to do your best work.
 
-## One-on-ones
+## One-on-ones 🧑🏼‍🤝‍🧑🏻
 
 I will schedule a fortnightly 30 minute catchup in your calendar for a 1:1. I like to start with a 2 week interval as a starting point, we can work out the cadence that suits you best moving forward - we can adjust at any time.
 
@@ -39,13 +51,13 @@ If there is something in particular you would like to go deep on, send out a rou
 
 > I like to give ownership of this relationship to you. I will of course guide and start the process, ultimately this is your time for your development.
 
-## My Schedule
+## My Schedule 📅
 
 I am living outside of Metro Melbourne at the moment, so you can expect to see me in the office one or two days a fortnight (Melbourne Stone & Chalk)
 
 We will most likely be working across timezones, so if you receive a message or email from me outside of your usual business working hours, please do not feel the need to respond ASAP. I do like to keep lunch times free of meetings, this can be hard across timezones but I will make every effort not to take your time either.
 
-### Communication with me
+###  How to reach me 📫
 
 The Calendar rules my day, so the best way to find structured time with me is to block out some time there. I am also 100% available on messenger, although I may be slow to respond if I am in meetings.
 
@@ -53,15 +65,16 @@ I prefer asynchronous communication since we are all remote, but recognise the p
 
 > I have an "Open Door" policy - feel free to reach out whenever you like, we do not need to abide by calendar invites to start talking.
 
-## What I am working on
+## What I am working on 🔭
 
-Currently my focus is on the following areas:
+Apart from getting to know the business, I am currently my focus is on the following areas:
 
-- Giving and Recieving feedback - some of the softer skills
+- Team Topologies - engineering teams and organisations
+- Giving and Recieving feedback 
 - Making my work more visible to the team, becoming more transparent
 - Commiting to fewer things (so hard with so much to do!)
 
-## Feedback
+## Feedback 🎺
 
 I am working hard to get better at giving and receiving feedback. At the time of writing this README we are going through a global pandemic, so giving timely and constructive feedback is much harder. I am spending a little more time reflecting and finding the time and space to give feedback where possible.
 
