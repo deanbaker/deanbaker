@@ -13,7 +13,7 @@ Starting as a young Java engineer, I have also used Ruby and Go in the back end,
 I have experience running distributed teams across geographies (mostly India and the Philippines), working with build partners such as Accenture, Thoughtworks and CapG - I am looking forward to working with Realtair employees directly in this environment without having to go through a middleman SI :)
 
 ### Content about me
-I like to share my thoughts on Medium.com - you can see my work here: [Medium Blog](dean-baker.medium.com).
+I like to share my thoughts on Medium.com - you can see my work here: [Medium Blog](https://dean-baker.medium.com).
 
 If you are interested in looking at of my work history, I can be found on [LinkedIn](https://www.linkedin.com/in/dean-baker/) - please connect if you haven't already.
 
